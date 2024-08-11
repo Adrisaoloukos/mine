@@ -1,1 +1,1 @@
-# mine
+sudo apt install default-jre
